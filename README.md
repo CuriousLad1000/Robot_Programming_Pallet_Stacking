@@ -76,4 +76,3 @@ as a part in my Master's studies.
 
 
 > *For more details, please see wiki*
-
