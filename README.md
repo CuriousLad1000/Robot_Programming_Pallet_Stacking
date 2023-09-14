@@ -44,7 +44,7 @@ as a part in my Master's studies.
 <br/>
 
 <p align="Center">
-  <img src="/osama.tasneem/Robot_Programming_Pallet_Stacking/wiki/raw/images/eec69b741f46ec1dde1c87402d611da53f774237.png">
+  <img src="https://raw.githubusercontent.com/wiki/CuriousLad1000/Robot_Programming_Pallet_Stacking/images/eec69b741f46ec1dde1c87402d611da53f774237.png">
 </p>
 
 <br/>
@@ -56,7 +56,7 @@ as a part in my Master's studies.
 <br/>
 
 <p align="Center">
-  <img src="/osama.tasneem/Robot_Programming_Pallet_Stacking/wiki/raw/images/09a1ee27d633b8cb15f3d3dc894c17f4d7f5ea26.png">
+  <img src="https://raw.githubusercontent.com/wiki/CuriousLad1000/Robot_Programming_Pallet_Stacking/images/09a1ee27d633b8cb15f3d3dc894c17f4d7f5ea26.png">
 </p>
 
 <br/>
@@ -69,7 +69,7 @@ as a part in my Master's studies.
 <br/>
 
 <p align="Center">
-  <img src="/osama.tasneem/Robot_Programming_Pallet_Stacking/wiki/raw/images/Demo_GIF.gif">
+  <img src="https://raw.githubusercontent.com/wiki/CuriousLad1000/Robot_Programming_Pallet_Stacking/images/Demo_GIF.gif">
 </p>
 
 <br/>
